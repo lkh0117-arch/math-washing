@@ -1,0 +1,28 @@
+[
+  {
+    "id": "wash_20260516_170452",
+    "label": "dd",
+    "job_name": "projects/455867487863/locations/us-central1/batchPredictionJobs/4755727247166406656",
+    "submitted_at": "2026-05-16 17:04:59",
+    "task_mode": "워싱",
+    "style": "강사용",
+    "item_count": 1,
+    "items": [
+      {
+        "q": "문제1",
+        "q_type": "객관식"
+      }
+    ],
+    "gcs_output": "gs://mathwash-batch-lkh0117-arch/wash_20260516_170452/output/",
+    "status": "JOB_STATE_SUCCEEDED",
+    "wash_answers": {
+      "0": "③"
+    },
+    "review_problems": {
+      "0": "문제1이차함수 $y=x^{2}-2kx+a$의 그래프와 직선 $y=4bx-k^{2}-16k$가 실수 $k$의 값에 관계없이 항상 한 점에서 만날 때, $a+b$의 값은? (단, $a, b$는 상수이다.)\n① $64$\n② $66$\n③ $68$\n④ $70$\n⑤ $72$"
+    },
+    "review_job_name": "projects/455867487863/locations/us-central1/batchPredictionJobs/3321541872081436672",
+    "review_status": "JOB_STATE_QUEUED",
+    "review_gcs_output": "gs://mathwash-batch-lkh0117-arch/wash_20260516_170452/review_output/"
+  }
+]
