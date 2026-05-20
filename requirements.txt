@@ -1,0 +1,9 @@
+google-genai
+pymupdf
+pillow
+pyautogui
+pyperclip
+pygetwindow
+matplotlib
+pywin32
+google-cloud-storage
